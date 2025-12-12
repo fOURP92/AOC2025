@@ -1,0 +1,3 @@
+My solutions for Advent of Code 2025. Not pretty, not optimized, just solutions.....
+<br>
+I paste my input as ```let data = `line\nline\nline\n'``` and then just do  ```data.split('\n')``` or something <br>
